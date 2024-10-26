@@ -8,7 +8,7 @@ Game Design Professional Certificate is consist of 8 courses
 |Course Name  |Study Time  | Final Project
 |--|--|--|
 |  Introduction to Game Design| 2 weeks   | Game Design Document(GDD)
-| Fundamentals of Level Design with Unreal Engine| 
+| Fundamentals of Level Design with Unreal Engine| 2 Week s | Level Design Document and Playtest
 
 
 ## 1. Introduction to Game Design
