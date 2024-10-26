@@ -8,9 +8,17 @@ Game Design Professional Certificate is consist of 8 courses
 |Course Name  |Study Time  | Final Project
 |--|--|--|
 |  Introduction to Game Design| 2 weeks   | Game Design Document(GDD)
-| Fundamentals of Level Design with Unreal Engine| 2 Week s | Level Design Document and Playtest
+| Fundamentals of Level Design with Unreal Engine| 3 Weeks | Level Design Document and Playtest
+|Unreal Engine Fundamentals | 2 weeks
+|Blueprint Scripting |
+|Visual Development and Audio Design in Games|
+|User Interface in Game Design|
+|User Experience in Game Design|
+|Game Development and Prototyping|
 
-## Introduction to Game Design
+
+
+## Course 1: Introduction to Game Design
 #### 1. What is a Game?
 -   **Genre**: Categories of games based on gameplay mechanics and themes (e.g., RPG, FPS, puzzle).
 -   **Fun**: The essential element that drives player engagement and enjoyment.
@@ -29,7 +37,7 @@ Game Design Professional Certificate is consist of 8 courses
 -   **Iterative Process**: Refining game design through repeated testing and feedback to enhance quality and playability.
 -   **Game Design Document (GDD)**: A detailed document that outlines the game’s mechanics, story, visuals, and technical specifications, serving as the blueprint for the development process.
 
-## Fundamentals of Level Design with Unreal Engine
+## Course 2: Fundamentals of Level Design with Unreal Engine
 #### 1. **How Level Design Works**
 -   **Beats & Intensity:** Structuring moments of high and low intensity to control pacing and player emotions.
 -   **Player Engagement Loop:** Maintaining the player's interest through a cycle of challenges, rewards, and progression.
@@ -55,3 +63,5 @@ Game Design Professional Certificate is consist of 8 courses
 #### 3. **Testing & Optimization**
 -   **Fault Testing:** Identifying and fixing bugs, unintended paths, or gameplay issues.
 -   **Milestones:** Regular checkpoints to review and optimize design choices.
+
+[Work in Progress]
