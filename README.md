@@ -1,4 +1,3 @@
-# Epic Games Game Design Professional Certificate Course Notes
 # Epic Games Game Design Professional Certificate Learning Notes
 
 I am taking a course in Game design provided by epic games on coursera. Hope to share some of the learning notes and course project
