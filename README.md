@@ -11,24 +11,23 @@ Game Design Professional Certificate is consist of 8 courses
 | Fundamentals of Level Design with Unreal Engine| 2 Week s | Level Design Document and Playtest
 
 ## Introduction to Game Design
-### 1. What is a Game?
-- **Genre**: Categories of games based on gameplay mechanics and themes (e.g., RPG, FPS, puzzle).
-- **Fun**: The essential element that drives player engagement and enjoyment.
-- **Game Industry Roles**:
-  - **Game Designer**: Responsible for conceptualizing, planning, and implementing the gameplay, narrative, and overall player experience.
+#### 1. What is a Game?
+-   **Genre**: Categories of games based on gameplay mechanics and themes (e.g., RPG, FPS, puzzle).
+-   **Fun**: The essential element that drives player engagement and enjoyment.
+-   **Game Industry Roles**:
+  -   **Game Designer**: Responsible for conceptualizing, planning, and implementing the gameplay, narrative, and overall player experience.
 
-### 2. Designing Your Game
-- **Pillars of Game Design**: Core principles that shape the game's identity and guide design decisions (e.g., immersion, challenge, creativity).
-- **Game Balance**: Achieving fair and engaging gameplay by balancing difficulty, rewards, and player experience.
+#### 2. Designing Your Game
+-   **Pillars of Game Design**: Core principles that shape the game's identity and guide design decisions (e.g., immersion, challenge, creativity).
+-   **Game Balance**: Achieving fair and engaging gameplay by balancing difficulty, rewards, and player experience.
   
-### 3. Design Methods
-- **Agile**: Iterative and flexible approach that involves continuous testing and updates.
-- **Waterfall**: A sequential design process with defined stages from start to finish.
-- **Double Diamond**: Two-phase approach focusing on defining the problem and developing solutions.
-
-- **Market Research**: Identifying target audiences and analyzing market trends to ensure game relevance and appeal.
-- **Iterative Process**: Refining game design through repeated testing and feedback to enhance quality and playability.
-- **Game Design Document (GDD)**: A detailed document that outlines the game’s mechanics, story, visuals, and technical specifications, serving as the blueprint for the development process.
+#### 3. Design Methods
+-   **Agile**: Iterative and flexible approach that involves continuous testing and updates.
+-   **Waterfall**: A sequential design process with defined stages from start to finish.
+-   **Double Diamond**: Two-phase approach focusing on defining the problem and developing solutions.
+-   **Market Research**: Identifying target audiences and analyzing market trends to ensure game relevance and appeal.
+-   **Iterative Process**: Refining game design through repeated testing and feedback to enhance quality and playability.
+-   **Game Design Document (GDD)**: A detailed document that outlines the game’s mechanics, story, visuals, and technical specifications, serving as the blueprint for the development process.
 
 ## Fundamentals of Level Design with Unreal Engine
 #### 1. **How Level Design Works**
