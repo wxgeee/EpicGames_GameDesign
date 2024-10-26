@@ -1,1 +1,1 @@
-# EpicGames_GameDesign-
+# Epic Games Game Design Professional Certificate Course Notes
